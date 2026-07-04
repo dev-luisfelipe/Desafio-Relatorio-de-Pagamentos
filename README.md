@@ -2,9 +2,6 @@
 
 Projeto final de Data Engineering Programming para gerar um relatório de pedidos de venda de 2025 cujos pagamentos foram recusados (`status=false`) e cuja avaliação de fraude classificou o pedido como legítimo (`avaliacao_fraude.fraude=false`).
 
-Link público do repositório Github para inserir no PDF de entrega:
-https://github.com/SEU-USUARIO/ads-client
-
 ## Saída esperada
 
 O pipeline grava o relatório em Parquet no caminho:
