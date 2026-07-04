@@ -1,4 +1,4 @@
-# ADS Client - Relatório PySpark de Pedidos
+# Relatório PySpark de Pedidos
 
 Projeto final de Data Engineering Programming para gerar um relatório de pedidos de venda de 2025 cujos pagamentos foram recusados (`status=false`) e cuja avaliação de fraude classificou o pedido como legítimo (`avaliacao_fraude.fraude=false`).
 
